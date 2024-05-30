@@ -1,4 +1,4 @@
-kjasj# PRACTICA01_3B
+# PRACTICA01_3B
 En esta practica aprenderemos a utilizar las herramientas GIT y GITHUB para el control de Versiones,Documentación, Desarrollo colaborativo y Respaldo del proyecto integrador para la asignatura de Integradora
 
 ## comandos basicos pasa la documentacion, utilizando el estandar de Markerdown(md)
@@ -43,3 +43,11 @@ Este parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta c
 <p align="justify">
 Este parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificado
 </p>
+
+### 4. Texto enfatizado(BOLD, ITALIK,BOLD/ITALIK)
+Si el texto que deseamos enfatizar se encuentra de un parrafo, podemos utilizar algunos trucos para ubicarlos en la documentacion 
+
+##### Texto en negrita(BOLD)
+Para poder poner el texto en negrita, este debera ser encerrado entre*
+EJEMPLO:
+*Texto impotante*TextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTexto
