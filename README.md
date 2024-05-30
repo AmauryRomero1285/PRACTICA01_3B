@@ -1,4 +1,4 @@
-# PRACTICA01_3B
+kjasj# PRACTICA01_3B
 En esta practica aprenderemos a utilizar las herramientas GIT y GITHUB para el control de Versiones,Documentación, Desarrollo colaborativo y Respaldo del proyecto integrador para la asignatura de Integradora
 
 ## comandos basicos pasa la documentacion, utilizando el estandar de Markerdown(md)
@@ -32,8 +32,14 @@ lo que en una pagina utilizaremos la etiqueta<p>.
 Tambien podemos aplicar estilos básicos de alineación:
 Este parrafo está alineado a la izquierda por defecto Este parrafo está alineado a la izquierda por defectoEste parrafo está alineado a la izquierda por defectoEste parrafo está alineado a la izquierda por defectoEste parrafo está alineado a la izquierda por defectoEste parrafo está alineado a la izquierda por defectoEste parrafo está alineado a la izquierda por defectoEste parrafo está alineado a la izquierda por defectoEste parrafo está alineado a la izquierda por defecto
 
+<p align="right">
 Este parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defectoEste parrafo está alineado a la derecha por defecto
+<p>
 
+<p align="center">
 Este parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineaciónEste parrafo esta centrado usando la propiedad de alineación
+</p>
 
-Este parrafo esta justificado
+<p align="justify">
+Este parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta justificado
+</p>
