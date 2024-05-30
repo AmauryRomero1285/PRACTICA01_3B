@@ -16,8 +16,10 @@ Para poder realizar una buena documentacion del proyecto debemos, ditribuir corr
 ####### Encabezado de nivel 7- solo 6 son los niveles permitidos, a partir de este enmaquetado será ignorado.
 
 ### 2.Separadores(SEPARATORS)
+
 Si deseas marcar una separacion mas visual de contenidos podemos utilizarlos indicando 3 caracteres de "-" continuamos, en el maquetado
 EJEMPLO:
+
 ---
 "Esto es similar a un tag de <HR> en HTML"
 
