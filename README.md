@@ -48,7 +48,7 @@ Este parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta just
 Si el texto que deseamos enfatizar se encuentra de un parrafo, podemos utilizar algunos trucos para ubicarlos en la documentacion 
 
 ##### Texto en negrita(BOLD)
-<p alin ="bold">
 Para poder poner el texto en negrita, este debera ser encerrado entre**
 EJEMPLO:
+
 **Texto importante**TextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTexto
