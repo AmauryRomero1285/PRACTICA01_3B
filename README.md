@@ -135,4 +135,4 @@ Las ligas son utilizadas para vincular elementos o referencias del proyecto dent
 
 **Ejemplo**
 
-Mi buscador favorito es: [(google.com)]
+Mi buscador favorito es: [Google](https://www.google.com)
