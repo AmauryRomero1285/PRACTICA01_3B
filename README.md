@@ -58,9 +58,10 @@ EJEMPLO:
 Para poder poner el texto en cursiva, este debera estar encerrado entre "* *"
 EJEMPLO:
 
-*TEXTO*textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
+*TEXTO IMPORTANTE*textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
 #### Texto negrita/cursiva (BOLD/ITALIK)
-Para poner el texto tachado, este debera estar encerrado entre "*** ***"
+Para poner el texto negrita/cursiva, este debera estar encerrado entre "*** ***"
 EJEMPLO:
 
-***TEXTO***textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
+
+***TEXTOIMPORTANTE***textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
