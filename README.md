@@ -1,3 +1,4 @@
+
 # PRACTICA01_3B
 En esta practica aprenderemos a utilizar las herramientas GIT y GITHUB para el control de Versiones,Documentación, Desarrollo colaborativo y Respaldo del proyecto integrador para la asignatura de Integradora
 
@@ -110,3 +111,20 @@ Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter 
 >- Restauramos la base de datos usando el comando *mysql*
 >
 >> C:/Program Files/MySQL Server 8.0/bin/mysql- u root-password< respaldo.sql
+
+### 6.Listas Ordenadas y Listas Desordenadas
+
+Si en nuestra documentacion necesitamos incluir información en modo de lista, un elemento tras otro, podemnos hacerlo utilizando los numeros con un punto decimal, si lasm deseseamos ordenadas o un guión medio si solo queremos una viñeta.
+
+**Ejemplo**
+
+Para crear tu primer repositorio en GitHub deberás:
+1. Contar con cuenta de GitHub.
+2. Dar click en el boton ****Nuevo Repositiorio****
+3. Asignarle un Nombre a tu repositoprio, por ejemplo: *Practica-3b*
+4. Asignarle un nivel de privacidad entre
+   - **Público:** Si quieres que este disponible para todos los usuarios.
+   - **Privado:** Si deseamos que solo a quien tu decidas que puedan colaborar con tu proyecto.
+10. Definir si incluye un archivo de descripción llamada: *READ.md*
+11. Definir si habrá exclusiones de archivo a través del archivo *.gitgnore*
+12. Guardar los cambios.
