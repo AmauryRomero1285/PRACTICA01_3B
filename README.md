@@ -50,7 +50,17 @@ Este parrafo esta justificadoEste parrafo esta justificadoEste parrafo esta just
 Si el texto que deseamos enfatizar se encuentra de un parrafo, podemos utilizar algunos trucos para ubicarlos en la documentacion 
 
 ##### Texto en negrita(BOLD)
-Para poder poner el texto en negrita, este debera ser encerrado entre**
+Para poder poner el texto en negrita, este debera ser encerrado entre "** **"
 EJEMPLO:
 
 **Texto importante**TextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTexto
+#### Texto en cursiva(ITALIK)
+Para poder poner el texto en cursiva, este debera estar encerrado entre "* *"
+EJEMPLO:
+
+*TEXTO*textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
+#### Texto negrita/cursiva (BOLD/ITALIK)
+Para poner el texto tachado, este debera estar encerrado entre "*** ***"
+EJEMPLO:
+
+***TEXTO***textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
