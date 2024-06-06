@@ -60,8 +60,53 @@ EJEMPLO:
 
 *TEXTO IMPORTANTE*textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
 #### Texto negrita/cursiva (BOLD/ITALIK)
+
 Para poner el texto negrita/cursiva, este debera estar encerrado entre "*** ***"
 EJEMPLO:
 
 
 ***TEXTOIMPORTANTE***textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto
+
+### Texto subrayado(underline)
+Algunas veces es necesario subrayar texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificacion rápida podemos utilizar el estilo que usa el estándar HTML usando el tag \<ins> y cerrando con \</ins>.
+
+**Ejemplo**
+
+texto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto  <ins>texto Importante</ins>  texto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto textotexto texto
+
+
+# Integradora-Practica 03
+
+Continuamos con los cambios básicos de Git y GitHub para el maquetado de la documentación.
+
+### 5.Cuadros para codigo o reseñas (BLOCKQUOTES)
+
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicialización de código fuente. Se maqueta iniciando el texto con un simbolo de menor que (\<)
+
+**Ejemplo**
+
+Para listar las carpetas y archivos en donde una terminal de sistema operativo Windows debemos ingresar el comando:
+
+>C:/dir
+
+ Despues oprimimos la tecla "Enter"
+
+ También podemos ingresar el texto multilinea
+
+ **Ejemplo**
+
+ >Aquí se ingresan un conjunto de intrucciones
+>para explicar al usuario, como instalar el
+>software que hemos diseñado.
+
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+
+**Ejemplo**
+**Pasos para instalar la base de datos**
+
+>- Descargar MySQL Server del sitio oficial
+>- Instalar el sistema gestor  de base de datos, definiendo el puerto y contraseña para el usuario ***root***
+>- descargamos el archivo de respaldo de la base de datos (.sql)
+>- Restauramos la base de datos usando el comando *mysql*
+>
+>- C:/Program Files/MySQL Server 8.0/bin/mysql- u root-password< respaldo.sql
