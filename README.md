@@ -159,5 +159,5 @@ Para poner una imagen en nuestro repositorio, es necesario agregarla antes de ed
 
 **Ejemplo:**
 
-![Imagen](imagen/Logo-UTXJ.png)
+![Imagen](PRACTICA01_3B/Logo-UTXJ.png)
 
