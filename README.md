@@ -148,7 +148,5 @@ Documentación creada poir: ***T.S.U Yáred Amaury Romero Martínez***
 <http://www.utxicotepec.edu.mx>
 
 ### 8.Imagenes 
+(https://www.google.com/url?sa=i&url=http%3A%2F%2Fsescolares.utxicotepec.edu.mx%2F&psig=AOvVaw1Mvw7cJ5TM33yGQkKUsoFA&ust=1718318203556000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDS_qKQ14YDFQAAAAAdAAAAABAU)
 
-Para insertar una imagen, es necesario crear un repertorio, para ello, es necesario abrir la barra de wiki e insertar el link de la imagen correspondiente, ademàs de añadir una breve descripcion de ella.
-posteriormente, se gurdara y copiara el vinculo generado para añadirlo a la pagina
-[https://github.com/AmauryRomero1285/PRACTICA01_3B.wiki.git]
