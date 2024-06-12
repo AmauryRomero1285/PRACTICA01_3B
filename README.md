@@ -1,4 +1,4 @@
-
+ 
 # PRACTICA01_3B
 En esta practica aprenderemos a utilizar las herramientas GIT y GITHUB para el control de Versiones,Documentación, Desarrollo colaborativo y Respaldo del proyecto integrador para la asignatura de Integradora
 
@@ -148,5 +148,16 @@ Documentación creada poir: ***T.S.U Yáred Amaury Romero Martínez***
 <http://www.utxicotepec.edu.mx>
 
 ### 8.Imagenes 
-(https://www.google.com/url?sa=i&url=http%3A%2F%2Fsescolares.utxicotepec.edu.mx%2F&psig=AOvVaw1Mvw7cJ5TM33yGQkKUsoFA&ust=1718318203556000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDS_qKQ14YDFQAAAAAdAAAAABAU)
+
+Para poner una imagen en nuestro repositorio, es necesario agregarla antes de editar el codigo.
+**Pasos a seguir**
+
+>-Buscar el boton "**Add file**"
+>-Abrir en "**Upload files**"
+>-Añadir la imagen que deseamos subir.
+>>Para referenciarla en el documento README.md se utiliza la siguente sitaxis ![*descripcion del archivo*](*ruta a la imagen*)
+
+**Ejemplo:**
+
+![Imagen](imagen/logo.jpg)
 
