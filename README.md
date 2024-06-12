@@ -150,11 +150,15 @@ Documentación creada poir: ***T.S.U Yáred Amaury Romero Martínez***
 ### 8.Imagenes 
 
 Para poner una imagen en nuestro repositorio, es necesario agregarla antes de editar el codigo.
+
 **Pasos a seguir**
 
 >-Buscar el boton "**Add file**"
+
 >-Abrir en "**Upload files**"
+
 >-Añadir la imagen que deseamos subir.
+
 >>Para referenciarla en el documento README.md se utiliza la siguente sitaxis ![*descripcion del archivo*](*ruta a la imagen*)
 
 **Ejemplo:**
