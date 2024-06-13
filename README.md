@@ -178,7 +178,7 @@ Si la documentación lo requiere, podemos presentar informacion en formato de ta
 |Fila 3 celda 1 | fila 3 celda 2| fila 3 celda 2| fila 3 celda 3| fila 3 celda 4|
 |Fila 4 celda 1 | fila 4 celda 2| fila 4 celda 2| fila 4 celda 3| fila 4 celda 4|
 
-En caso de necesitar la fusion de celdas en colimnas usaremos la propiedad *colspan* del tag \<td> y en el caso de necesitar la fusion de filas utilizaremos la propiedad *rowspan*
+En caso de necesitar la fusion de celdas en columnas usaremos la propiedad *colspan* del tag \<td> y en el caso de necesitar la fusion de filas utilizaremos la propiedad *rowspan*
 
 **Ejemplo:**
 
@@ -200,6 +200,31 @@ Dado que el ejemplo pasado usando solo markdown no se puede realizar la fusion d
   <th>Encabezado 1</th>
   <th>Encabezado 2</th>
   <th>Encabezado 3</th>
+  <th>Encabezado 4</th>
+ </tr>
+ <tr>
+  <td>Fila 1 celda 1</td>
+  <td>Fila 1 celda 2</td>
+  <td>Fila 1 celda 3</td>
+  <td>Fila 1 celda 4</td>
+ </tr>
+
+ <tr>
+  <td>Fila 2 celda 1</td>
+  <td colspan=3 align="center">Fila 2 celda 2</td>
+ </tr>
+
+ <tr>
+  <td rowspan=3>Fila 3 celda 1</td>
+  <td>Fila 3 celda 2</td>
+  <td>Fila 3 celda 3</td>
+  <td>Fila 3 celda 4</td>
+ </tr>
+
+ <tr>
+  <td>fila 4 celda 2</td>
+  <td>Fila 4 celda 3</td>
+  <td>Fila 4 celda 4</td>
  </tr>
 </table>
 
