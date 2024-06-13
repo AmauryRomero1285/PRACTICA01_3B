@@ -234,5 +234,5 @@ Si la documentación requiewre de incorporar imágenes, esquemas, modelos, fotog
 
 **Ejemplo:**
 
-![Pikachu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mypokecard.com%2Fen%2FGallery%2FPokemon-Pitochu-36&psig=AOvVaw2B3T1FCHOYJJyLbp6st02q&ust=1718401099363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj1rI_F2YYDFQAAAAAdAAAAABAJ)
+![Imagen](images.jpg)
 
