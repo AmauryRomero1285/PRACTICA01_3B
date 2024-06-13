@@ -165,3 +165,27 @@ Para poner una imagen en nuestro repositorio, es necesario agregarla antes de ed
 
 ![Imagen](Logo-UTXJ.png)
 
+### 9.Tablas (TABLES)
+
+Si la documentación lo requiere, podemos presentar informacion en formato de tablas con filas y colunmas, para maquetarlas podemos utilizar el cáracter \para delimitar las columnas\- para delimitar las filas.
+
+**Ejemlo:**
+
+|Encabezado 1| Encabezado 2| encabezado 3| Encabezado 4|
+|------------|------------|-----------|------------|
+|Fila 1 celda 1 | fila 1 celda 2| fila 1 celda 2| fila 1 celda 3| fila 1 celda 4|
+|Fila 2 celda 1 | fila 2 celda 2| fila 2 celda 2| fila 2 celda 3| fila 2 celda 4|
+|Fila 3 celda 1 | fila 3 celda 2| fila 3 celda 2| fila 3 celda 3| fila 3 celda 4|
+|Fila 4 celda 1 | fila 4 celda 2| fila 4 celda 2| fila 4 celda 3| fila 4 celda 4|
+
+En caso de necesitar la fusion de celdas en colimnas usaremos la propiedad *colspan* del tag \<td> y en el caso de necesitar la fusion de filas utilizaremos la propiedad *rowspan*
+
+**Ejemplo:**
+
+|Encabezado 1| Encabezado 2| encabezado 3| Encabezado 4|
+|------------|------------|-----------|------------|
+|Fila 1 celda 1 | fila 1 celda 2| fila 1 celda 2| fila 1 celda 3| fila 1 celda 4|
+|Fila 2 celda 1 <td colspan=2>  fila 2 celda 2 fila 2 celda 3|
+|Fila 3 celda 1 | fila 3 celda 2| fila 3 celda 2| fila 3 celda 3| fila 3 celda 4|
+|Fila 4 celda 1 | fila 4 celda 2| fila 4 celda 2| fila 4 celda 3| fila 4 celda 4|
+
