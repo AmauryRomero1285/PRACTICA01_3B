@@ -228,3 +228,11 @@ Dado que el ejemplo pasado usando solo markdown no se puede realizar la fusion d
  </tr>
 </table>
 
+### 9.Imagenes
+
+Si la documentación requiewre de incorporar imágenes, esquemas, modelos, fotografías o cualquier representación gráfica, utilizaremos la estructura de las ligas, maquetando el nombre de la imagen entre corchetes con un signo de admiración de cierre y la liga de referencia a la imagen usando parentesis.
+
+**Ejemplo:**
+
+![Pikachu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mypokecard.com%2Fen%2FGallery%2FPokemon-Pitochu-36&psig=AOvVaw2B3T1FCHOYJJyLbp6st02q&ust=1718401099363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj1rI_F2YYDFQAAAAAdAAAAABAJ)
+
