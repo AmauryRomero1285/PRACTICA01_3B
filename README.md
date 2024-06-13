@@ -187,5 +187,19 @@ En caso de necesitar la fusion de celdas en colimnas usaremos la propiedad *cols
 |Fila 1 celda 1 | fila 1 celda 2| fila 1 celda 2| fila 1 celda 3| fila 1 celda 4|
 |Fila 2 celda 1 <td colspan=2>  fila 2 celda 2 fila 2 celda 3|
 |Fila 3 celda 1 | fila 3 celda 2| fila 3 celda 2| fila 3 celda 3| fila 3 celda 4|
-|Fila 4 celda 1 | fila 4 celda 2| fila 4 celda 2| fila 4 celda 3| fila 4 celda 4|
+|               | fila 4 celda 2| fila 4 celda 2| fila 4 celda 3| fila 4 celda 4|
+|               | fila 5 celda 2| fila 5 celda 2| fila 5 celda 3| fila 5 celda 4|
+|Fila 6 celda 1 | fila 6 celda 2| fila 6 celda 2| fila 6 celda 3| fila 6 celda 4|
+
+Dado que el ejemplo pasado usando solo markdown no se puede realizar la fusion de las filas debemos utilizar el estandar de HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y \<td> para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*.
+
+**Ejemplo:**
+
+<table>
+ <tr>
+  <th>Encabezado 1</th>
+  <th>Encabezado 2</th>
+  <th>Encabezado 3</th>
+ </tr>
+</table>
 
