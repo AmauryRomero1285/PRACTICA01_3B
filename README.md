@@ -236,3 +236,5 @@ Si la documentación requiewre de incorporar imágenes, esquemas, modelos, fotog
 
 ![Imagen](images.jpg)
 
+<span style="display:inline-block; width:20px; height:20px; background-color:green;"></span>
+
